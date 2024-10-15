@@ -1,5 +1,5 @@
 # Project Overview
-In this project, there is developed k-means clustering algorithm from the ground up. Clustering is an unsupervised machine 
+In this project, there is developed k-means and K-medoids clustering algorithm from the ground up. Clustering is an unsupervised machine 
 learning method used to discover patterns within data.
 
 Clustering is applied to the FIFA players dataset to group players based on factors such as age, salary, potential, market value, and overall rating.
